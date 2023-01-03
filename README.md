@@ -1,8 +1,4 @@
----
-page_title: "Get started"
----
-
-# Get started
+# Elestio Terraform - Postgres Regions Example
 
 In this tutorial, we will discover together the Elestio Terraform Provider.
 
